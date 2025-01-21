@@ -1,0 +1,290 @@
+{
+    "CelebrityFaces": [
+        {
+            "Urls": [
+                "www.wikidata.org/wiki/Q615",
+                "www.imdb.com/name/nm2177779"
+            ],
+            "Name": "Lionel Messi",
+            "Id": "3XP8pa",
+            "Face": {
+                "BoundingBox": {
+                    "Width": 0.20043933391571045,
+                    "Height": 0.4576694965362549,
+                    "Left": 0.169221431016922,
+                    "Top": 0.2264028638601303
+                },
+                "Confidence": 99.99958038330078,
+                "Landmarks": [
+                    {
+                        "Type": "mouthLeft",
+                        "X": 0.22394905984401703,
+                        "Y": 0.5297986268997192
+                    },
+                    {
+                        "Type": "mouthRight",
+                        "X": 0.28375738859176636,
+                        "Y": 0.5870198011398315
+                    },
+                    {
+                        "Type": "eyeRight",
+                        "X": 0.33091241121292114,
+                        "Y": 0.4539835751056671
+                    },
+                    {
+                        "Type": "eyeLeft",
+                        "X": 0.25934889912605286,
+                        "Y": 0.3848961889743805
+                    },
+                    {
+                        "Type": "nose",
+                        "X": 0.2867985963821411,
+                        "Y": 0.5042787790298462
+                    }
+                ],
+                "Pose": {
+                    "Roll": 28.006681442260742,
+                    "Yaw": 14.436921119689941,
+                    "Pitch": 0.31187140941619873
+                },
+                "Quality": {
+                    "Brightness": 67.83761596679688,
+                    "Sharpness": 95.51618957519531
+                },
+                "Emotions": [
+                    {
+                        "Type": "HAPPY",
+                        "Confidence": 99.67448425292969
+                    },
+                    {
+                        "Type": "SURPRISED",
+                        "Confidence": 0.06335973739624023
+                    },
+                    {
+                        "Type": "CALM",
+                        "Confidence": 0.0009179115295410156
+                    },
+                    {
+                        "Type": "CONFUSED",
+                        "Confidence": 0.0006010135402902961
+                    },
+                    {
+                        "Type": "DISGUSTED",
+                        "Confidence": 0.00043511390686035156
+                    },
+                    {
+                        "Type": "ANGRY",
+                        "Confidence": 0.00010728836059570312
+                    },
+                    {
+                        "Type": "FEAR",
+                        "Confidence": 0.000011920928955078125
+                    },
+                    {
+                        "Type": "SAD",
+                        "Confidence": 0
+                    }
+                ],
+                "Smile": {
+                    "Value": true,
+                    "Confidence": 99.87874603271484
+                }
+            },
+            "MatchConfidence": 99.9980239868164,
+            "KnownGender": {
+                "Type": "Male"
+            }
+        },
+        {
+            "Urls": [
+                "www.wikidata.org/wiki/Q142794",
+                "www.imdb.com/name/nm4827772"
+            ],
+            "Name": "Neymar",
+            "Id": "20Eg64",
+            "Face": {
+                "BoundingBox": {
+                    "Width": 0.16673526167869568,
+                    "Height": 0.46485140919685364,
+                    "Left": 0.4357787072658539,
+                    "Top": 0.2846684455871582
+                },
+                "Confidence": 99.99851989746094,
+                "Landmarks": [
+                    {
+                        "Type": "mouthLeft",
+                        "X": 0.48498889803886414,
+                        "Y": 0.5965530872344971
+                    },
+                    {
+                        "Type": "mouthRight",
+                        "X": 0.5443638563156128,
+                        "Y": 0.6099594235420227
+                    },
+                    {
+                        "Type": "eyeRight",
+                        "X": 0.5610199570655823,
+                        "Y": 0.4565889835357666
+                    },
+                    {
+                        "Type": "eyeLeft",
+                        "X": 0.4900061786174774,
+                        "Y": 0.44083553552627563
+                    },
+                    {
+                        "Type": "nose",
+                        "X": 0.5211938619613647,
+                        "Y": 0.5387466549873352
+                    }
+                ],
+                "Pose": {
+                    "Roll": 6.781007766723633,
+                    "Yaw": 2.4032394886016846,
+                    "Pitch": -4.167600631713867
+                },
+                "Quality": {
+                    "Brightness": 54.764217376708984,
+                    "Sharpness": 97.45164489746094
+                },
+                "Emotions": [
+                    {
+                        "Type": "HAPPY",
+                        "Confidence": 75.078125
+                    },
+                    {
+                        "Type": "ANGRY",
+                        "Confidence": 2.26287841796875
+                    },
+                    {
+                        "Type": "SURPRISED",
+                        "Confidence": 1.2035369873046875
+                    },
+                    {
+                        "Type": "FEAR",
+                        "Confidence": 0.551605224609375
+                    },
+                    {
+                        "Type": "CALM",
+                        "Confidence": 0.05221366882324219
+                    },
+                    {
+                        "Type": "CONFUSED",
+                        "Confidence": 0.03208716958761215
+                    },
+                    {
+                        "Type": "SAD",
+                        "Confidence": 0.009036064147949219
+                    },
+                    {
+                        "Type": "DISGUSTED",
+                        "Confidence": 0.007730722427368164
+                    }
+                ],
+                "Smile": {
+                    "Value": true,
+                    "Confidence": 94.52793884277344
+                }
+            },
+            "MatchConfidence": 99.9946517944336,
+            "KnownGender": {
+                "Type": "Male"
+            }
+        },
+        {
+            "Urls": [
+                "www.wikidata.org/wiki/Q26517",
+                "www.imdb.com/name/nm4662497"
+            ],
+            "Name": "Luis Suárez",
+            "Id": "2Oy8OC6",
+            "Face": {
+                "BoundingBox": {
+                    "Width": 0.18831029534339905,
+                    "Height": 0.3609568178653717,
+                    "Left": 0.6186721324920654,
+                    "Top": 0.21235807240009308
+                },
+                "Confidence": 99.9999771118164,
+                "Landmarks": [
+                    {
+                        "Type": "mouthLeft",
+                        "X": 0.7202772498130798,
+                        "Y": 0.49177467823028564
+                    },
+                    {
+                        "Type": "mouthRight",
+                        "X": 0.7696848511695862,
+                        "Y": 0.43155601620674133
+                    },
+                    {
+                        "Type": "eyeRight",
+                        "X": 0.7296289801597595,
+                        "Y": 0.32455167174339294
+                    },
+                    {
+                        "Type": "eyeLeft",
+                        "X": 0.6710638403892517,
+                        "Y": 0.3969941735267639
+                    },
+                    {
+                        "Type": "nose",
+                        "X": 0.7205613851547241,
+                        "Y": 0.43261954188346863
+                    }
+                ],
+                "Pose": {
+                    "Roll": -35.773040771484375,
+                    "Yaw": -8.476263999938965,
+                    "Pitch": -6.798986911773682
+                },
+                "Quality": {
+                    "Brightness": 65.6328353881836,
+                    "Sharpness": 92.22801208496094
+                },
+                "Emotions": [
+                    {
+                        "Type": "HAPPY",
+                        "Confidence": 100
+                    },
+                    {
+                        "Type": "CONFUSED",
+                        "Confidence": 0.004495183937251568
+                    },
+                    {
+                        "Type": "SURPRISED",
+                        "Confidence": 0.0015124678611755371
+                    },
+                    {
+                        "Type": "CALM",
+                        "Confidence": 0.0009417533874511719
+                    },
+                    {
+                        "Type": "ANGRY",
+                        "Confidence": 0.00016689300537109375
+                    },
+                    {
+                        "Type": "SAD",
+                        "Confidence": 0.0001430511474609375
+                    },
+                    {
+                        "Type": "FEAR",
+                        "Confidence": 0.00007748603820800781
+                    },
+                    {
+                        "Type": "DISGUSTED",
+                        "Confidence": 0.000059604644775390625
+                    }
+                ],
+                "Smile": {
+                    "Value": true,
+                    "Confidence": 99.97042083740234
+                }
+            },
+            "MatchConfidence": 99.99989318847656,
+            "KnownGender": {
+                "Type": "Male"
+            }
+        }
+    ],
+    "UnrecognizedFaces": []
+}
